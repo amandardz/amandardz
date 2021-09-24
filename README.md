@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+- 💬 Ask me about anything you find interesting on my repo
+- 📫 You can reach me at: amandardz15@gmail.com
+
 
 <!--
 **amandardz/amandardz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
