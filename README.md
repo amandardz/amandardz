@@ -13,7 +13,7 @@
 
 💻 With current and future ambitions of becoming an innovative engineer who is inspired and hope to inspire others.
 
-💪🏽 Technical experience in HTML, CSS, JavaScript, Node.js, Object-Oriented Programming, Express.js, APIs, MVC, MySQL, NoSQL, Mongo, and React.js.
+💪🏽 Technical experience in HTML, CSS, JavaScript, jQuery, Node.js, Object-Oriented Programming, Express.js, APIs, MVC, MySQL, NoSQL, Mongo, and React.js.
 
 💬 Ask me about anything you find interesting on my repo
 
